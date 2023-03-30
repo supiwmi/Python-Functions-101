@@ -1,4 +1,9 @@
 #!/usr/bin/env python
-def add(x,y):
-    return x+y
-print(add(5,5))
+def add(x, y):
+    print(f"This is x: {x}")
+    print(f"This is y: {y}")
+    result = int(x) + int(y)
+    return result
+
+
+# print(add(5,5))
