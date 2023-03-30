@@ -3,3 +3,5 @@ black
 pytest
 pytest-cov
 click
+fastapi
+uvicorn[standard]
